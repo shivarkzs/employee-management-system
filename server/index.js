@@ -8,7 +8,7 @@ const bodyParser = require('body-parser');
 const db = require('./database.js');
 
 const corsOptions = {
-  origin: 'http://localhost:3000',
+  origin: 'http://172.31.93.73:3000',
   optionsSuccessStatus: 200,
 };
 
