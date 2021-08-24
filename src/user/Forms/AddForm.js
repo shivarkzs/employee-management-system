@@ -4,7 +4,7 @@ import styled from 'styled-components';
 import axios from 'axios';
 import { closeForm } from '../../utils/CloseForm';
 
-const addUrl = 'http://34.205.78.152:8080/api/add/employees/';
+const addUrl = 'http://54.144.230.61:8080/api/add/employees/';
 
 const colors = [
   'White',
