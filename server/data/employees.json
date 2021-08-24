@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "Kyle Lowry",
+    "name": "shashi kumar",
     "code": "F100",
     "profession": "Drywall Installer",
     "color": "#FF6600",
@@ -11,7 +11,7 @@
   },
   {
     "id": 2,
-    "name": "DeMar DeRozan",
+    "name": "Kishore",
     "code": "F101",
     "profession": "Drywall Installer",
     "color": "yellow",
@@ -21,7 +21,7 @@
   },
   {
     "id": 3,
-    "name": "Fred Van Vleet",
+    "name": "Rakesh",
     "code": "F102",
     "profession": "Drywall Installer",
     "color": "green",
@@ -31,7 +31,7 @@
   },
   {
     "id": 4,
-    "name": "Jonas Valanciunas",
+    "name": "Kranthi kumar",
     "code": "F103",
     "profession": "Drywall Installer",
     "color": "#333333",
@@ -41,7 +41,7 @@
   },
   {
     "id": 5,
-    "name": "Chris Bosh",
+    "name": "Charan",
     "code": "F104",
     "profession": "Drywall Installer",
     "color": "#FF6600",
@@ -51,7 +51,7 @@
   },
   {
     "id": 6,
-    "name": "Marcus Camby",
+    "name": "Srinivaas",
     "code": "F105",
     "profession": "Runner",
     "color": "red",
@@ -61,7 +61,7 @@
   },
   {
     "id": 7,
-    "name": "Vince Carter",
+    "name": "Sunil",
     "code": "F106",
     "profession": "Runner",
     "color": "red",
