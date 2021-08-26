@@ -10,7 +10,7 @@ import axios from 'axios';
 import SearchBar from '../../components/UI/SearchBar/SearchBar';
 import TableTemplate from '../../components/Tables/TableTemplate';
 
-const url = 'http://172.31.93.73:8080/api/employees';
+const url = 'http://52.90.6.236:8080/api/employees';
 
 class UserDashboard extends React.Component {
   state = {
